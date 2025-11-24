@@ -43,7 +43,6 @@
 # Program:
 ```
 #include<stdio.h>
-
 void validateDate(){
     int dd, mm, yy;
     scanf("%d/%d/%d", &dd, &mm, &yy);
